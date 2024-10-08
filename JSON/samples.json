@@ -1,7 +1,7 @@
 [
   {
-    "name": "ah-oh-voice",
-    "file": "samples/ah-oh-voice.mp3",
+    "name": "Ah-oh-voice",
+    "file": "samples/Ah-oh-voice.mp3",
     "bpm": "120",
     "loop": "2m"
   },
